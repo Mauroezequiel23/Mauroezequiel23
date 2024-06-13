@@ -1,7 +1,5 @@
 # 👋 Hola, soy Mauro Gonzalez
 
-![Mi foto](https://i.imgur.com/7XKQ165.jpeg)
-
 ### Map Maker | FullStack Developer in Training | Tech Enthusiast
 
 📍 Argentina
