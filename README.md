@@ -15,5 +15,5 @@
 ### 📫 Contacto
 
 - Email: mauroezequielgonzalez@hotmail.com
-- [Fiverr](https://www.fiverr.com/Mauroezequiel23)
-- [Discord](@Mauroezequiel23)
+- Fiverr: https://www.fiverr.com/Mauroezequiel23
+- Discord: mauroezequiel23
